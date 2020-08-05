@@ -1,0 +1,18 @@
+Resolusi gambar adalah tingkat kedetailan yang tampak pada gambar digital, baik itu foto, ilustrasi, video, maupun gambar lainnya. Acuan yang biasa digunakan adalah Piksel Per Inci, atau PPI. Dengan demikian, dapat dikatakan bahwa resolusi gambar adalah seberapa banyak piksel dalam per inci gambar digital.
+Jika sebuah gambar memiliki resolusi tinggi, maka dia mengandung banyak piksel per inci. Lalu akan menghasilkan gambar yang lebih tajam dan lebih berkualitas. Sebaliknya, jika gambar memiliki resolusi rendah, berarti dia memiliki jumlah piksel yang lebih sedikit dan menampilkan gambar yang tidak tajam. Jika dalam kualitas yang sangat rendah, maka bisa dipastikan gambar tersebut blur atau pecah.
+Hal ini juga berarti berikut, ketika gambar dengan resolusi tinggi, kemudian diperkecil ukurannya. Maka kualitas gambarnya akan dapat menjadi semakin baik atau berkualitas. Sementara jika gambar dengan resolusi rendah, kemudian diperbesar ukurannya, maka gambar semakin blur.
+Penerapan resolusi gambar
+Resolusi gambar yang dibutuhkan dapat didasarkan pada seperti apa gambar digunakan. Contohnya resolusi gambar untuk web dan untuk keperluan cetak. Keduanya memiliki saran resolusi yang berbeda.
+1. Gambar web
+Gambar web biasanya didasarkan pada dimensi piksel, yaitu ukuran gambar. Kebanyakan gambar situs web dapat menggunakan resolusi 72, karena sudah dapat tercukupi dan memperingan loading halaman situs.
+2. Keperluan cetak
+Untuk keperluan cetak, jika itu cetakan kertas atau cetakan lain yang membutuhkan detail yang tinggi, maka membutuhkan resolusi 300 PPI. Lalu dengan gambar yang diatur diukuran yang sesungguhnya. Untuk mengaturnya, bisa menggunakan software desain seperti Adobe PhotoShop.
+Namun untuk materi yang berukuran besar seperti cetak x-banner, baliho, reklame, banner, dan sebagai, menggunakan resolusi 72 PPI biasanya sudah cukup. Jika lebih dari itu, misalnya 300 PPI, justru berat di mesin cetak.
+Cara mendapat gambar resolusi tinggi
+Ketika ukuran cetak meningkat, resolusi gambar pun harus ditingkatkan pula. Oleh karena itu, sebelum mencetak gambar, lebih baik periksa atau atur resolusinya sebelum naik produksi. Lalu bagaimana cara mendapatkan gambar resolusi tinggi.
+1. Cari di internet
+Di internet tersedia gambar dengan resolusi tinggi, ada yang berbayar dan ada juga yang gratis. Jika Anda menggunakan Google Images, maka Anda akan mendapatkan banyak pilihan gambar dari resolusi rendah hingga tinggi. Oleh karena itu, Anda harus memilihnya satu per satu. Tapi jika tidak ingin ribet, Anda bisa mengunduh gambar di situs khusus stok foto seperti Unsplash, Pexels, dan Stockvault. Mereka menyediakan banyak gambar berkualitas tinggi dan hasil karya fotografer handal.
+2. Buat dengan vektor
+Jika Anda sempat menggambar manual melalui software vektor seperti Adobe Illustrator dan Corel Draw. Anda bisa mengonversinya ke bentuk bitmap resolusi tinggi. Atau bisa mencari gambar vector di internet untuk dikoknversi, contohnya adalah Freepik. Mereka menyediakan gambar vektor dengan sangat banyak.
+3. Foto sendiri
+Sekarang ini kebanyakan kamera sudah memiliki hasil resolusi tinggi. Tidak hanya Kamera DLSR, melainkan kamera smartphone pun juga memiliki resolusi yang tinggi. Oleh karena itu, jika Anda memiliki Kamera DLSR atau kamera lain yang bagus, tidak ada salahnya untuk membuat foto sendiri.
